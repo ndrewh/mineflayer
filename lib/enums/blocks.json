@@ -1873,5 +1873,15 @@
       "278": true,
       "285": true
     }
+  },
+  "159": {
+    "id": 159,
+    "displayName": "Stained Clay",
+    "name": "hardenedStainedClay",
+    "hardness": 0.8,
+    "stackSize": 64,
+    "diggable": true,
+    "boundingBox": "block",
+    "material": "wool"
   }
 }
